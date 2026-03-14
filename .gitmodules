@@ -1,0 +1,3 @@
+[submodule "PKDSIM"]
+	path = PKDSIM
+	url = https://github.com/bryanthedragon/Discordbot_PkdsimDSB.git
