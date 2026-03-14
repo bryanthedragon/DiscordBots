@@ -1,0 +1,59 @@
+{
+    "platform": {
+        "discord":{
+            "01": {
+                "DSEN": {
+                    "id": "",
+                    "name": "",
+                    "repository": "",
+                    "branch": "main"
+                }
+            },
+
+            "02": {
+                "DSFR": {
+                    "id": "",
+                    "name": "",
+                    "repository": "",
+                    "branch": "main"
+                }
+            },
+
+            "03": {
+            "DSHN": {
+                    "id": "",
+                    "name": "",
+                    "repository": "",
+                    "branch": "main"
+                }
+            },
+
+            "04": {
+                "DSM": {
+                    "id": "",
+                    "name": "",
+                    "repository": "",
+                    "branch": "main"
+                }
+            },
+
+            "05": {
+                "DSQH": {
+                    "id": "",
+                    "name": "",
+                    "repository": "",
+                    "branch": "main"
+                }
+            },
+
+            "06": {
+                "DSU": {
+                    "id": "",
+                    "name": "",
+                    "repository": "",
+                    "branch": "main"
+                }
+            }
+        }
+    }
+}
